@@ -3,4 +3,6 @@ The Mathswatch Answer Orchard is a set of answers for mathswatch questions. The 
 
 I believe the excessive use of javascript and public apis is the reason why mathswatch is so easy to cheat on and find information on. GO4Schools is pure html, so api's can't really be abused. myMaths uses randomized variables for their answers, making cheating insanely difficult.
 
-I am (obviously) not involved OR endorsed by mathswatch, go4schools or mymaths. For any and all enquiries or complaints regarding this, please email me at lanre@sunglocto.xyz
+I am (obviously) not involved OR endorsed by mathswatch, go4schools or mymaths.
+
+For any and all enquiries or complaints regarding this, please email me at lanre@sunglocto.xyz
